@@ -1,0 +1,20 @@
+.card-footer {
+  border-top: none;
+  background-color: white;
+}
+.buy-button {
+  /* background-color: #fb9242; */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  transition: all 0.4s;
+}
+.buy-button:hover{
+  color: gray;
+}
+.card {
+  border: none;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px lightgrey;
+}

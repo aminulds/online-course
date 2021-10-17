@@ -3,71 +3,71 @@
   "course": "Learn Ethical Hacking From Scratch",
   "img": "https://i.ibb.co/VCXz312/1.jpg",
   "author": "Zaid Sabih",
-  "price": "$72.82"
+  "price": 72.82
 }, {
   "id": 2,
   "course": "Ultimate AWS Certified Solutions Architect Associate 2021",
   "img": "https://i.ibb.co/6YGvgtQ/2.jpg",
   "author": "Stephane Maarek",
-  "price": "$58.97"
+  "price": 58.97
 }, {
   "id": 3,
   "course": "The Complete Cyber Security Course : Hackers Exposed!",
   "img": "https://i.ibb.co/mtq3hkG/3.jpg",
   "author": "Nathan House",
-  "price": "$70.35"
+  "price": 70.35
 }, {
   "id": 4,
   "course": "The Complete Networking Fundamentals Course. Your CCNA start",
   "img": "https://i.ibb.co/2WZyNrq/4.jpg",
   "author": "David Bombal",
-  "price": "$77.29"
+  "price": 77.29
 }, {
   "id": 5,
   "course": "The Complete Networking Fundamentals Course. Your CCNA start",
   "img": "https://i.ibb.co/yyQRLkW/5.jpg",
   "author": "BackSpace",
-  "price": "$53.94"
+  "price": 53.94
 }, {
   "id": 6,
   "course": "TOTAL: CompTIA A+ Certification (220-1001)",
   "img": "https://i.ibb.co/JtLpgSp/6.jpg",
   "author": "Total Seminars",
-  "price": "$85.23"
+  "price": 85.23
 }, {
   "id": 7,
   "course": "Learn Linux in 5 Days and Level Up Your Career",
   "img": "https://i.ibb.co/xzs7V05/7.jpg",
   "author": "Jason Cannon",
-  "price": "$76.26"
+  "price": 76.26
 }, {
   "id": 8,
   "course": "CCNA 2020 200-125 Video Boot Camp With Chris Bryant",
   "img": "https://i.ibb.co/1bxwNVt/8.jpg",
   "author": "Chris Bryant",
-  "price": "$94.59"
+  "price": 94.59
 }, {
   "id": 9,
   "course": "Cisco CCNA 200-301 – The Complete Guide to Getting Certified",
   "img": "https://i.ibb.co/gy5y8Nk/9.jpg",
   "author": "Neil Anderson",
-  "price": "$74.52"
+  "price": 74.52
 }, {
   "id": 10,
   "course": "Certified Kubernetes Administrator (CKA) with Practice Tests",
   "img": "https://i.ibb.co/nMcJq9L/10.jpg",
   "author": "Mumshad Mannambeth",
-  "price": "$76.60"
+  "price": 76.60
 }, {
   "id": 11,
   "course": "AZ-303 Azure Architecture Technologies Exam Prep 2021",
   "img": "https://i.ibb.co/x70znB4/11.jpg",
   "author": "Scott Duffy",
-  "price": "$81.10"
+  "price": 81.10
 }, {
   "id": 12,
   "course": "[NEW] Complete Salesforce Administrator Certification Course",
   "img": "https://i.ibb.co/cQ2TKbH/12.jpg",
   "author": "Mike Wheeler",
-  "price": "$75.83"
+  "price": 75.83
 }]
